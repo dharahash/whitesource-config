@@ -1,8 +1,8 @@
 {
-"repositories": [
-{
-"fullName": "dharahash/frameworks_native_android-10",
-"branchName": "master"
-}
-]
+  "repositories": [
+    {
+      "fullName": "dharahash/frameworks_base_android-10",
+      "branchName": "master"
+    }
+  ]
 }
