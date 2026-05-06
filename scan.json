@@ -1,7 +1,7 @@
 {
   "repositories": [
     {
-      "fullName": "dharahash/frameworks_native_android-10",
+      "fullName": "dharahash/frameworks_base_android-6",
       "branchName": "master"
     }
   ]
